@@ -1,0 +1,16 @@
+name: com.bigdevil.sharesdk
+displayName: BigDevil.ShareSDK
+description: ShareSDK
+repoUrl: https://github.com/CrazyPleasantGoat/ShareSDK
+parentRepoUrl: null
+licenseSpdxId: ''
+licenseName: MIT
+image: ''
+topics:
+  - package-management
+hunter: CrazyPleasantGoat
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: ''
+readme: UPM:README.md
+createdAt: 1711432273208
